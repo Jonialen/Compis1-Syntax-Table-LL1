@@ -2,6 +2,10 @@
 
 Implementación de los conjuntos **FIRST** y **FOLLOW** y la construcción automática de la **tabla de análisis sintáctico predictivo LL(1)** para gramáticas libres de contexto arbitrarias.
 
+## Video explicativo
+
+[![Video explicativo](https://img.youtube.com/vi/bSVQWcwBks0/0.jpg)](https://youtu.be/bSVQWcwBks0)
+
 ## Estructura del proyecto
 
 ```
